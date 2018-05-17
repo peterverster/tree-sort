@@ -1,0 +1,168 @@
+[ {
+  "id" : 0,
+  "parent" : 0,
+  "label" : "aa175f60-f51d-457a-9bd8-736620bc8707",
+  "distribution" : 0,
+  "result" : 207,
+  "nodes" : [ {
+    "type" : "Node",
+    "id" : 1,
+    "parent" : 0,
+    "label" : "7e80b1e9-d0d8-4e6e-8cd6-8f785538ddc1",
+    "distribution" : 1,
+    "result" : 99,
+    "nodes" : [ {
+      "type" : "Node",
+      "id" : 3,
+      "parent" : 1,
+      "label" : "60ee53e6-5277-44ea-8af6-7a4a5a1abf84",
+      "distribution" : 3,
+      "result" : 3,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 5,
+      "parent" : 1,
+      "label" : "a6a66a59-4057-400e-9287-850291c60ec7",
+      "distribution" : 5,
+      "result" : 5,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 7,
+      "parent" : 1,
+      "label" : "050c0ac4-ff03-465c-9fe6-e75f13406769",
+      "distribution" : 7,
+      "result" : 7,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 9,
+      "parent" : 1,
+      "label" : "edb12c33-e973-4cff-a32f-f876904393ce",
+      "distribution" : 9,
+      "result" : 9,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 11,
+      "parent" : 1,
+      "label" : "c2ec31c4-c11e-420d-a22a-ff6b1b4e135c",
+      "distribution" : 11,
+      "result" : 11,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 13,
+      "parent" : 1,
+      "label" : "24698fcb-f2ef-4fce-9ec1-32f62af51714",
+      "distribution" : 13,
+      "result" : 13,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 15,
+      "parent" : 1,
+      "label" : "0af83ee3-129a-4276-9336-b5180cb07f2f",
+      "distribution" : 15,
+      "result" : 15,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 17,
+      "parent" : 1,
+      "label" : "266c9059-c497-4fc9-9eae-357527c0f792",
+      "distribution" : 17,
+      "result" : 17,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 19,
+      "parent" : 1,
+      "label" : "bddcead4-d53a-4a77-b2f5-b3232f47dd37",
+      "distribution" : 19,
+      "result" : 19,
+      "nodes" : [ ]
+    } ]
+  }, {
+    "type" : "Node",
+    "id" : 2,
+    "parent" : 0,
+    "label" : "69adad21-b6f8-4d55-bd83-1d42e1a684dc",
+    "distribution" : 2,
+    "result" : 108,
+    "nodes" : [ {
+      "type" : "Node",
+      "id" : 4,
+      "parent" : 2,
+      "label" : "fe6aae14-ff7f-4f30-bec5-851ac5e4615a",
+      "distribution" : 4,
+      "result" : 4,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 6,
+      "parent" : 2,
+      "label" : "06fe3304-b9ab-420a-9f2c-d23fb01957fc",
+      "distribution" : 6,
+      "result" : 6,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 8,
+      "parent" : 2,
+      "label" : "d1a4886e-5ee1-4507-82b3-0ec8d0dba352",
+      "distribution" : 8,
+      "result" : 8,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 10,
+      "parent" : 2,
+      "label" : "38b529fb-8022-4628-b644-6ccbbb937d07",
+      "distribution" : 10,
+      "result" : 10,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 12,
+      "parent" : 2,
+      "label" : "3f499f70-78bb-4da7-94e2-7899c413d7b4",
+      "distribution" : 12,
+      "result" : 12,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 14,
+      "parent" : 2,
+      "label" : "e0413d52-4c83-4265-b5da-60a7c627ec2c",
+      "distribution" : 14,
+      "result" : 14,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 16,
+      "parent" : 2,
+      "label" : "ea257432-afb0-47e8-9a5c-40af4011981d",
+      "distribution" : 16,
+      "result" : 16,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 18,
+      "parent" : 2,
+      "label" : "1d3f3ebc-0863-4fd9-939e-19b0a21a4bca",
+      "distribution" : 18,
+      "result" : 18,
+      "nodes" : [ ]
+    }, {
+      "type" : "Node",
+      "id" : 20,
+      "parent" : 2,
+      "label" : "f6cacbea-c3db-4d07-83c6-136e538bf75e",
+      "distribution" : 20,
+      "result" : 20,
+      "nodes" : [ ]
+    } ]
+  } ]
+} ]
